@@ -13,6 +13,8 @@ deploy/
 docs/
 logs/
 weights/
+models_v3/
+wandb/
 
 # Local experiment configs
 src/config/inference_wrapper_multilayout.yml
